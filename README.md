@@ -1,4 +1,4 @@
-# Proof-of-Ownership Without Disclosure  
+# Bitcoin Proof-of-Ownership Without Disclosure  
 ## A Privacy-Preserving, Bitcoin-Native System for Verifiable Collateral and Persistent Attestation
 
 ---
