@@ -1,3 +1,10 @@
+---
+title: "Bitcoin Proof-of-Ownership Without Disclosure"
+description: "A Privacy-Preserving, Bitcoin-Native System for Verifiable Collateral and Persistent Attestation"
+pubDate: 2025-08-12
+tags: ["bitcoin", "cryptography", "proof-of-ownership", "privacy"]
+---
+
 # Bitcoin Proof-of-Ownership Without Disclosure  
 ## A Privacy-Preserving, Bitcoin-Native System for Verifiable Collateral and Persistent Attestation
 
